@@ -27,3 +27,5 @@ Features
 * Supports strings and hexadecimal as input
 * Demo file provided
 * 100% coverage by unittests
+
+备注：如果使用modbus-CRC16校验，就将CRC16.py中的modbus_flag=False改为modbus_flag=True即可
